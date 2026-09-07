@@ -18,18 +18,7 @@ A frontend-only demonstration of a proposed **Notary Verification & Supervision 
 
 This is a **prototype only**. It uses fictional records and does not connect to MINIJUST, Irembo, RDB, Rwanda identity systems, payment systems, or real notarial databases.
 
-## Run locally
-
-Requirements: Node.js 20+
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the local Vite address shown in the terminal.
-
-## Suggested next development phase
+## Next development phase
 
 1. Move mock records to PostgreSQL.
 2. Add Node/Express API.
